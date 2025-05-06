@@ -9,5 +9,3 @@ Built with HTML, CSS, and JavaScript.
 - Daily Routine
 - Nutrition
 - Islamic Guidance
-
-
